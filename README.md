@@ -1,2 +1,1 @@
-# Serix-Foods-Restaurent-Web-page
-By using HTML A
+# Serix-Foods-Restaurant-Web-page
